@@ -1,2 +1,5 @@
-Flask
+fastapi
+uvicorn
 apify-client
+flask  # only if you're using Flask
+gunicorn
